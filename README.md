@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<strong>	<title>  README </title>  </strong>
+<title> <strong>	  README </strong> </title>  
 </head>
 <body> 
 <br>Placeholder 
