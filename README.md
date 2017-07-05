@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>README</title>
-  </head>
+<head> 
+
+<title>README</title>
+</head>
+
 <h1><strong>README2</strong></h1> 
 
 <body> 
