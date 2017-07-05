@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title><strong>README</strong></title>
+<strong>	<title>  README </title>  </strong>
 </head>
-<body> Placeholder <br> Placeholder 2
+<body> 
+<br>Placeholder 
+<br> Placeholder 2
 
 </body>
 </html>
