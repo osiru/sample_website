@@ -5,9 +5,10 @@
 <title>README</title>
 </head>
 
+<body> 
 <h1><strong>README2</strong></h1> 
 
-<body> 
+
 <br>Placeholder 
 <br> Placeholder 2
 
