@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> <strong>	  README </strong> </title>  
+<title>README</title> 
+<h1><strong>README</strong></h1> 
 </head>
 <body> 
 <br>Placeholder 
